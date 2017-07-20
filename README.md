@@ -24,6 +24,17 @@
 
 xmake-plugins is a plugin repository based on xmake. 
 
+## Installation
+
+Download the given plugin directory (.e.g `xmake-plugins/echo`) and copy to the plugins directory of xmake (`/installdir/xmake/plugins`).
+
+## Usage
+
+Please run the following command to get help info:
+
+```lua
+$ xmake plugin_name --help
+```
 
 If you want to known more, please refer to:
 

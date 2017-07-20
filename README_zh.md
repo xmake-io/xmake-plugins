@@ -24,6 +24,18 @@
 
 xmake-plugins是一个基于xmake的插件管理仓库。
 
+## 安装
+
+下载指定插件目录 (例如 `xmake-plugins/echo`) 复制到本地xmake的插件安装目录 (`/installdir/xmake/plugins`).
+
+## 使用
+
+请运行一些命令获取插件的使用信息：
+
+```lua
+$ xmake plugin_name --help
+```
+
 如果你想要了解更多，请参考：
 
 * [在线文档](http://xmake.io/#/zh/)
